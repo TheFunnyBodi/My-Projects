@@ -1,0 +1,6 @@
+{
+    "target_language": "en",
+    "source_language": "uk",
+    "text_file": "text.txt",
+    "output_file": "translated_text.txt"
+}
